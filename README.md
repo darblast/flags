@@ -1,5 +1,7 @@
 ## `@darblast/flags`
 
+[![](https://img.shields.io/npm/v/@darblast/flags)](https://www.npmjs.com/package/@darblast/flags)
+[![License: MIT](https://img.shields.io/github/license/darblast/flags)](https://github.com/darblast/flags/blob/master/LICENSE)
 [![Node.js CI](https://github.com/darblast/flags/actions/workflows/node.js.yml/badge.svg)](https://github.com/darblast/flags/actions/workflows/node.js.yml)
 
 Allows receiving typed parameters in the URL and manages parsing.
